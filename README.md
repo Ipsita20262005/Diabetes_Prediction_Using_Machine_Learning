@@ -1,6 +1,6 @@
 # Diabetes_Prediction_Using_Machine_Learning
  Pima Indians Diabetes Prediction:
-
+ 
  Project Overview:
 This project predicts whether a patient is diabetic using machine learning techniques on the Pima Indians Diabetes Dataset.
 
